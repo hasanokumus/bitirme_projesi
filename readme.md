@@ -2,7 +2,7 @@
 
 ## Proje Hakkında
 
-Bu proje, sera ortamında çekilmiş domates yaprağı görüntülerini kullanarak beş farklı sağlık durumunu sınıflandıran bir yapay zeka modelinin geliştirilmesini ve STM32F746G mikrodenetleyicisi üzerinde çalıştırılmasını kapsamaktadır.
+Bu proje, sera ortamında çekilmiş domates yaprağı görüntülerini kullanarak beş farklı sağlık durumunu sınıflandıran bir yapay zeka modelinin geliştirilmesini ve STM32F746G mikrodenetleyicisi üzerinde çalıştırılmasını kapsamaktadır. Kart üzerinde test aşaması canlı kamera görüntüleri ile değil SD kart üzerindeki hazır görüntüler üzerinde yapılmıştır.
 
 ## Projenin Aşamaları
 - Sera ortamında çekilen görüntülerden veri seti oluşturulması ve etiketlenmesi.
