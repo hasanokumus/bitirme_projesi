@@ -20,9 +20,3 @@ Bu proje, sera ortamında çekilmiş domates yaprağı görüntülerini kullanar
 - `ai-model/` — Yapay zekâ modelinin eğitim ve değerlendirme kodları.
 - `stm32/` — STM32 üzerinde çıkarım ve gömülü yazılım kodları.
 - `docs/` — Proje raporu ve dokümantasyon.
-
-## Kullanılan Teknolojiler
-Python, derin öğrenme, görüntü işleme, STM32, gömülü yapay zekâ ve model nicemleme.
-
-## Test Bilgisi
-Model, STM32F746G kartı üzerinde SD kartta bulunan görüntüler kullanılarak test edilmiştir. Testler canlı kamera görüntüsü üzerinden gerçekleştirilmemiştir.
